@@ -1,4 +1,5 @@
-#fichier seeds crée les tables Course et Students 
+#fichier seeds crée les tables Course et Students aléatoiremant grace a la gem Faker
+
 require 'faker'
 
 
